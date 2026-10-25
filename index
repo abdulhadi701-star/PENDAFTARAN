@@ -73,7 +73,7 @@
 
   <script>
     // MASUKKAN URL WEB APP GOOGLE APPS SCRIPT KAMU DI SINI
-    const GAS_URL = "GANTI_DENGAN_URL_WEB_APP_GAS_KAMU";
+    const GAS_URL = "https://script.google.com/macros/s/AKfycbz4lc0QqfJugIZqMltQFQwmRv1A60yJ068hx-oFgCEmm-Al-G0pDdQ9N6psVyKZ23dOXg/exec";
 
     document.getElementById("registrationForm").addEventListener("submit", function(e) {
       e.preventDefault();
